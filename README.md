@@ -10,7 +10,7 @@
 
 5. [网络照片](https://img1.baidu.com/it/u=2777480701,3081791725&fm=26&fmt=auto&gp=0.jpg)</br>
 
-6. ![本地照片](test2.jpg)</br>
+6. ![本地照片](kid.JPG)</br>
 
 7. 引用：</br>
 > 引用部分</br>
